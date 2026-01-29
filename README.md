@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @riasat
-- 👀 I’m interested in making user-friendly software
-- 🌱 I’m currently learning Node and React.
-- 💞️ I’m looking to work on Angular Projects and innovative ideas.
-- ⚡ Fun fact: I do not code for living 
+👋 Hi, I’m Riasat
+💻 Frontend Developer with 4+ years of experience building scalable, user-friendly web applications
+🅰️ Strong focus on Angular, with experience in RxJS, modular architecture, and enterprise-level UI
+🌱 Currently expanding skills in React and Node.js
+🤝 Open to collaborating on frontend-focused projects and meaningful products
+⚡ Fun fact: I enjoy solving problems more than writing code
 
 <!---
 riasat-Emumba/riasat-Emumba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
